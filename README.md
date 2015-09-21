@@ -1,3 +1,2 @@
 # Wordpress
-Test
-23
+WordPress test
